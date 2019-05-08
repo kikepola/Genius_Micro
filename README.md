@@ -1,4 +1,4 @@
-# Beto, O cooler que te segue
+# MBeto, O cooler que te segue
 
 Este repositório é destinado ao projeto academico da disciplina EEN251-Microcontroladores e Sistemas Embarcados do Instituto Mauá de Tecnologia.
 

@@ -64,10 +64,18 @@ void bluetoothCommand(){
             s1 = 0;
             s2 = 1;
             device.printf("s2",command);
-        }else{
+        }else if(command == '2'){
             s1 = 1;
             s2 = 0;
             device.printf("s1",command);
+        }else if(command == '3'){
+            s1 = 0;
+            s2 = 0;
+            device.printf("s3",command);
+        }else if(command == '4'){
+            s1 = 1;
+            s2 = 1;
+            device.printf("s4",command);
         }
     }
    
@@ -78,7 +86,7 @@ void bluetoothCommand(){
 
 
  int main()
- {  
+ {    
     char dado;
     pc.printf("Comunicacao Serial\n\r");
     while(1) {

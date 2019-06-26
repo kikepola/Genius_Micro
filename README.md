@@ -19,7 +19,6 @@ NXP MBED LPC 1768 é o microcontrolador principal.
 ![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163800.jpg)
 ![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163820.jpg)
 ![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163823.jpg)
-![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_162856.mp4)
 
 
 Membros do Grupo: 

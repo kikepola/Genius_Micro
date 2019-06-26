@@ -12,6 +12,15 @@ NXP MBED LPC 1768 é o microcontrolador principal.
 4 ponte-H - L298N.
 5 motores dc x 2.
 
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163539.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163103.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163133.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163535.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163800.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163820.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_163823.jpg)
+![alt text](https://raw.githubusercontent.com/kikepola/Genius_Micro/master/20190626_162856.mp4)
+
 
 Membros do Grupo: 
 
